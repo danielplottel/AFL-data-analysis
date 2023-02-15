@@ -2,7 +2,7 @@
 
 Metadada
 
-#: Player number
+#: Player number <br>
 Player: Player name,
 Club: Team the player played for in the match
 Opponent: Opposition team to the player in the match
